@@ -1,0 +1,3 @@
+[submodule "my-web-page"]
+	path = my-web-page
+	url = https://matjutapretty.github.io/my-web-page/
